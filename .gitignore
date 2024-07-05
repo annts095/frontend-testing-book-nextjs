@@ -52,3 +52,8 @@ __screenshots__
 
 # storybook
 storybook-static
+
+# working dir
+actual
+diff
+expected
